@@ -1,4 +1,4 @@
-# infeometrec-data
+# Reconstructing Video from Interferometric Measurements of Time-Varying Sources . 
 reconstructing video from infeometric measurment  of time varying sources .
 “The Black Hole Image” Step by step .
 Go to the profile of Taj Alagawani
@@ -19,22 +19,22 @@ The package contains several primary classes for loading, simulating, and manipu
 
 
 
-Installation
+# Installation
 change to the main directory and run:
 
 pip3 install .
 It should install most of the required libraries in your PY(env) by pip3 . or pip if use another version . 
 (astropy, ephem, future, h5py , html , networkx, numpy, pandas , matplotlib, requests, scipy, skimage).
 
-Note : you can not use conda or any pkg manager to install ehtim , This version is an early release .
+# Note : you can not use conda or any pkg manager to install ehtim , This version is an early release .
 
 Now Exploring the VLBI Imaging Website : Here .
 Standardized dataset of real & synthetic data , Over 5000 synthetic measurement sets: 14 Array Configurations, 96 Source Images, 4 Noise Levels , Automatic Quantitative and Qualitative Evaluation ,Online form to easily simulate realistic data using user-specified parameters .
 
 Generating Data on the VLBI Imaging Website .
 
-Selecting/Uploading an Image .
-total flux density ( 2.5 ) .
+, Selecting/Uploading an Image . ,
+, total flux density ( 2.5 ) ,
 Rotation ( 180 ) .
 Use SgrA* Model .
 Spin : 0 % .
