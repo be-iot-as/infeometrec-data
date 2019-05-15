@@ -1,9 +1,7 @@
 # Reconstructing Video from Interferometric Measurements of Time-Varying Sources . 
 reconstructing video from infeometric measurment  of time varying sources .
 “The Black Hole Image” Step by step .
-Go to the profile of Taj Alagawani
-Taj Alagawani
-Apr 29
+
 Imaging with the Event Horizon Telescope.
 
 All of us had heard about capturing the first image of the black hole, in this story we will run the method used to create these images and videos.
